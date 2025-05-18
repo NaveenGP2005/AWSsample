@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1747578889198",
+    "title": "AWS",
+    "description": "dsdsf",
+    "date": "2025-05-18",
+    "time": "20:04",
+    "venue": "DES",
+    "maxParticipants": "",
+    "datetime": "2025-05-18T14:34:00.000Z",
+    "registrations": [],
+    "createdAt": "2025-05-18T14:34:49.198Z"
+  },
+  {
+    "_id": "1747578950888",
+    "title": "sdf",
+    "description": "sdf",
+    "date": "2025-05-18",
+    "time": "20:05",
+    "venue": "sdf",
+    "maxParticipants": "",
+    "datetime": "2025-05-18T14:35:00.000Z",
+    "registrations": [],
+    "createdAt": "2025-05-18T14:35:50.888Z"
+  }
+]
